@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T13:21:23.136Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="abuCuF7YYe0Mu8X9gd1s" version="16.6.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-24T13:24:42.626Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="2A6MkLft_q1Q-vZ2Fw2q" version="16.6.1" type="github" pages="4">
   <diagram id="Xkwwh23WElvd_-AzaLAm" name="第 1 页">
     <mxGraphModel dx="2365" dy="1553" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -2169,6 +2169,16 @@
         <mxCell id="baTXrX2rRLLCzNIoztDi-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.606;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#4075B1;strokeWidth=2;" edge="1" parent="SO10WBFJjWrlSsMGb_ib-1" source="YtmBrR7nwAQZNafLn1yd-4" target="YtmBrR7nwAQZNafLn1yd-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="baTXrX2rRLLCzNIoztDi-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#4075B1;strokeWidth=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="SO10WBFJjWrlSsMGb_ib-1" source="YtmBrR7nwAQZNafLn1yd-4" target="YtmBrR7nwAQZNafLn1yd-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="579.9999999999998" y="1772" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="592" y="1698" />
+              <mxPoint x="755" y="1698" />
+              <mxPoint x="755" y="1622" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YtmBrR7nwAQZNafLn1yd-4" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fillColor=#4075B0;strokeColor=#0e8088;" vertex="1" parent="SO10WBFJjWrlSsMGb_ib-1">
           <mxGeometry x="478" y="1584" width="227.98" height="76" as="geometry" />
         </mxCell>
@@ -2260,6 +2270,12 @@
         </mxCell>
         <mxCell id="baTXrX2rRLLCzNIoztDi-29" value="&lt;font color=&quot;#000000&quot;&gt;注册服务&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="SO10WBFJjWrlSsMGb_ib-1">
           <mxGeometry x="602" y="1155" width="71" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="baTXrX2rRLLCzNIoztDi-30" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.77;dx=27.22;notch=15;feather=0.5;labelBackgroundColor=none;fontSize=18;fontColor=#333333;strokeColor=#666666;strokeWidth=2;fillColor=#f5f5f5;rotation=90;" vertex="1" parent="SO10WBFJjWrlSsMGb_ib-1">
+          <mxGeometry x="935" y="106" width="82.5" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="baTXrX2rRLLCzNIoztDi-33" value="&lt;font color=&quot;#000000&quot;&gt;规则配置&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="SO10WBFJjWrlSsMGb_ib-1">
+          <mxGeometry x="641" y="1666" width="73" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
